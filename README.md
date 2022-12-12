@@ -48,7 +48,7 @@ En effet j'aspire à compléter mon travail de developpeuse front-end avec des c
  
   # Bye for now! 
   
-  ![Carte de blagues](https://readme-jokes.vercel.app/api)
+  ![Carte de blagues](https://readme-jokes.vercel.app/api?&theme=graywhite)
   
   
   
