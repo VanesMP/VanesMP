@@ -1,7 +1,7 @@
 # Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
  [![Linkedin badge](https://img.shields.io/badge/Vanessa_Macedo_Pinto-0aa183?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-macedo-pinto-devjunior/)](https://www.linkedin.com/in/vanessa-macedo-pinto-devjunior/)
-  [![Outlook badge](https://img.shields.io/badge/Contact_Me-069c49?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:vanessa.MP@outlook.fr)](mailto:vanessa.MP@outlook.fr)
+  [![Outlook badge](https://img.shields.io/badge/Contact_Me-069c49?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vanessa.MP@outlook.fr)
   
  ### Je suis Vanessa, Développeuse Front-end Junior  
   
