@@ -3,7 +3,7 @@
  [![Linkedin badge](https://img.shields.io/badge/Vanessa_Macedo_Pinto-0aa183?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-macedo-pinto-devjunior/)](https://www.linkedin.com/in/vanessa-macedo-pinto-devjunior/)
   [![Outlook badge](https://img.shields.io/badge/Contact_Me-069c49?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vanessa.MP@outlook.fr)
   
- ### Je suis Vanessa, Développeuse Front-end Junior  
+ ### Je suis Vanessa, Développeuse Front-end Junior et Web designeuse 
   
 ## <div align="center"> :woman_student:  </div> 
 J' ai obtenu en Septembre 2022, un diplômé de niveau 6 de Developpeur front-end React JS à l'école OpenClassrooms.</br>
